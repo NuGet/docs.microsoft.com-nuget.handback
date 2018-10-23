@@ -1,7 +1,7 @@
 # docs.microsoft.com-nuget.handback
 
 
-## NuGet <span style="font-size: 14px">[(Docs)](https://docs.microsoft.com/en-us/nuget/)</span>
+## NuGet [(Docs)](https://docs.microsoft.com/en-us/nuget/)
 
 An essential tool for any modern development platform is a mechanism through which developers can create, share, and consume useful code. Often such code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 
@@ -17,7 +17,7 @@ Put simply, a NuGet package is a single ZIP file with the .nupkg extension that 
 * _For Example_ : from Latin locus (place) and the English term locale, "a place where something happens or is set"
 
 
-## NuGet Localization <span style="font-size: 14px">[(Repos)](https://github.com/NuGet/)</span>
+## NuGet Localization [(Repos)](https://github.com/NuGet/)
 
 Language (Country)  | Repository Link
 ------------- | -------------
